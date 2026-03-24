@@ -816,7 +816,7 @@ def main():
     st.markdown("""
     <div class='footer'>
         <p>📊 <strong>AHP Classique</strong> - Analytic Hierarchy Process</p>
-        <p style='font-size: 0.8rem;'>ENSAM Meknès | Fatiha Mahnoun • Karima Badous • Oumaima Khair | Encadré par Madame Dada</p>
+        <p style='font-size: 0.8rem;'>ENSAM Meknès | Fatiha Mahnoun • Karima ABadous • Oumaima Khair | Encadré par Madame Dadda</p>
         <p style='font-size: 0.8rem; margin-top: 0.5rem;'>Méthodologie AHP de Saaty | Analyse Cohérente | Visualisations Interactives</p>
     </div>
     """, unsafe_allow_html=True)
